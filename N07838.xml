@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:010001_0000_0F7B7AA6983A8B90"/>
-            <pb facs="tcp:010001_0001_0F7B7AAAF54C0718"/>
+            <pb facs="unknown:010001_0000_0F7B7AA6983A8B90"/>
+            <pb facs="unknown:010001_0001_0F7B7AAAF54C0718"/>
             <p>SPECIMEN OF DIVINE TRUTHS, Fitted for the Uſe of thoſe, of various Capacities, who deſire to prepare themſelves for a due <hi>CONFESSION of their FAITH.</hi>
             </p>
             <p>By the Rev. Mr. A. HELLENBROECK, Late Miniſter of the Goſpel at ROTTERDAM.</p>
@@ -121,7 +121,7 @@
             <p>NEW-YORK: Printed by JOHN HOLT, oppoſite the Exchange. MDCCLXV.</p>
          </div>
          <div type="approbation">
-            <pb facs="tcp:010001_0002_0F7B7AABEB7FAE60"/>
+            <pb facs="unknown:010001_0002_0F7B7AABEB7FAE60"/>
             <p>THIS TRANSLATION of <hi>A. Hellenbroek's</hi> SPE<g ref="char:EOLhyphen"/>CIMEN OF DIVINE TRUTHS, &amp;c. having firſt been examined, compared and approved of by the Conſiſtory of the Reformed Proteſtant Dutch Church of the City of <hi>New-York,</hi> is by them recommended for the Uſe of their Con<g ref="char:EOLhyphen"/>gregation, and printed by their Order.</p>
             <closer>
                <dateline>
@@ -132,7 +132,7 @@
             </closer>
          </div>
          <div type="preface">
-            <pb facs="tcp:010001_0003_0F7B7AACA39D6A98"/>
+            <pb facs="unknown:010001_0003_0F7B7AACA39D6A98"/>
             <head>THE PREFACE <hi>Of the AUTHOR.</hi>
             </head>
             <opener>
@@ -146,13 +146,13 @@
                <head>II.</head>
                <p>In the firſt Place, your Views ought to be pure; to learn to know, to obey and glorify God, to edify one another, and to further your own Salvation, (which we hope you may have good Grounds to expect) let the Frame of your Hearts be humble, and ſeek to be con<g ref="char:EOLhyphen"/>vinced of your natural Ignorance, and Inability in Spi<g ref="char:EOLhyphen"/>ritual Things.</p>
                <p>Let this fill you with an holy Shame, and excite in you a true Deſire to be delivered from theſe Things, and to be conformable to the Image of God in true Wiſdom, be ye therefore ſubject to this Way of Inſtruc<g ref="char:EOLhyphen"/>tion, and to the Diſcretion of your Miniſter in Reſpect to his Orders and Directions, for thoſe who learn, ought by all Means to be obedient herein, according to Heb.
-<pb n="iv" facs="tcp:010001_0004_0F7B7AAD672024D0"/>13.17. "Obey them that have the Rule over you, and ſubmit yourſelves"; And that, our Lord would have done, in Reſpect even to the Phariſees and Scribes, Matt. 23.3. "All therefore whatever they bid you, that ob<g ref="char:EOLhyphen"/>ſerve and do."</p>
+<pb n="iv" facs="unknown:010001_0004_0F7B7AAD672024D0"/>13.17. "Obey them that have the Rule over you, and ſubmit yourſelves"; And that, our Lord would have done, in Reſpect even to the Phariſees and Scribes, Matt. 23.3. "All therefore whatever they bid you, that ob<g ref="char:EOLhyphen"/>ſerve and do."</p>
             </div>
             <div n="3" type="part">
                <head>III.</head>
                <p>Furthermore, you are ſeveral Ways to prepare your<g ref="char:EOLhyphen"/>ſelves; above all Things draw nigh to God in Prayer, and therein let your Deſires be in the following Order: That beſides the Things before-mentioned, the Lord may give you a clear Underſtanding to comprehend Matters; a ſanctified Judgment to value them; a ſtrong Memory, to remember them; and an unwearied Deſire and Diligence, to improve therein; a ſettled Attention, to underſtand the Queſtions and Anſwers; a ready Utter<g ref="char:EOLhyphen"/>ance, with other Qualifications, in order to expreſs Matters according to the Truth and Worth thereof; as likewiſe, the Guidance of the Holy Spirit, to appre<g ref="char:EOLhyphen"/>hend the Excellence and Glory of thoſe Things; and finally that the Lord may incline and move your Hearts, agreeable to the Subject treated on. Endeavour to learn ſome ſhort and comprehenſive Book of Inctruction by Heart, which may afterwards ſerve as a Foundation for farther Inſtruction.</p>
                <p>Learn alſo to get perfectly by Heart, the moſt neceſſary Paſſages of Scripture; in your Preparations, uſe yourſelf to get a diſtinct Apprehenſion in your Underſtanding and Memory, of the Things you are to anſwer; and to that End ſtudy a little upon each Matter: Make it your Practice to meditate upon them, ſo that when you come to catechize, you may know what you underſtand, and
-<pb n="v" facs="tcp:010001_0005_0F7B7AAE23432538"/>what not, and to what you are more particularly to give Attention; hence it will appear, that you have not learn'd to repeat it without Underſtanding.</p>
+<pb n="v" facs="unknown:010001_0005_0F7B7AAE23432538"/>what not, and to what you are more particularly to give Attention; hence it will appear, that you have not learn'd to repeat it without Underſtanding.</p>
                <p>Let him that hath made ſome Progreſs, read another Book on the ſame Subject; but in reading other Books keep this Rule, that you read not many Books, but read one Book often; being thus prepared, go out with a de<g ref="char:EOLhyphen"/>pendent Heart, truſting in the Lord; and to this End, maintain continually on your Mind, a lively Senſe of this, viz. That without the Divine Aſſiſtance, you will not be fit for any Word or Duty; but that with his Aſſiſtance, you ſhall enjoy all thoſe required Qualifications, and their Effects.</p>
             </div>
             <div n="4" type="part">
@@ -164,14 +164,14 @@
             <div n="5" type="part">
                <head>V.</head>
                <p>Beware of interrupting, contradicting, or croſs-queſ<g ref="char:EOLhyphen"/>tioning thy Miniſter; leſt thou ſhould ſeem to pretend
-<pb n="vi" facs="tcp:010001_0006_0F7B7AAEDFC5A2F0"/>to be his Maſter, or through thy Self-Conceit, endea<g ref="char:EOLhyphen"/>vour to bring his Perſon and Service into Diſreſpect.</p>
+<pb n="vi" facs="unknown:010001_0006_0F7B7AAEDFC5A2F0"/>to be his Maſter, or through thy Self-Conceit, endea<g ref="char:EOLhyphen"/>vour to bring his Perſon and Service into Diſreſpect.</p>
                <p>But endeavour carefully to attend to his Queſtions, to underſtand them, and when he hath propounded the Queſtion, then anſwer; but when the Miniſter begins to ſpeak again, you muſt be ſilent, and not continue ſpeaking with him.</p>
                <p>In Regard to the Manner of thy Expreſſion, take Heed of Affectation, of ſpeaking inarticulately or heed<g ref="char:EOLhyphen"/>leſsly; but on the contrary, take Care to ſpeak with a Voice ſufficiently loud and clear, ſo that not only the Miniſter and the Perſon ſpeaking, but all preſent, may underſtand; every one ſpeaking in his natural Tone of Voice, tho' with Reverence, ſlow, and grave, accord<g ref="char:EOLhyphen"/>ing to the Nature and Weight of the Matter.</p>
             </div>
             <div n="6" type="part">
                <head>VI.</head>
                <p>This being ſo in general, we are further to notice, how you are to behave in ſeveral Circumſtances; and firſt, when you are queſtioned, and God enables you to anſwer; acknowledge that it is from him, and in Humility render him Thanks for the ſame; but if you have not anſwered well, be not diſcouraged, and don't reſolve to ceaſe catechizing; but remember, that you come to that Duty not as one who knoweth every Thing, but as a Learner, who deſires to know theſe Things; be not altogether ſilent, that waſtes Time, makes the Miniſter concerned, and ſeems to reflect upon the Importance of the Queſtion; but ſay, either that you know it not, or what you apprehend to be the meaning; and ſhew your Deſire of receiving Informa<g ref="char:EOLhyphen"/>tion from the Miniſter; in Reſpect to God, acknowledge your Ignorance, and your Obligation to know thoſe
-<pb n="vii" facs="tcp:010001_0007_0F7B7AAFA6F3D8F8"/>Things; Pray for the Forgiveneſs of the Sins of Igno<g ref="char:EOLhyphen"/>rance, and for Increaſe of true Wiſdom.</p>
+<pb n="vii" facs="unknown:010001_0007_0F7B7AAFA6F3D8F8"/>Things; Pray for the Forgiveneſs of the Sins of Igno<g ref="char:EOLhyphen"/>rance, and for Increaſe of true Wiſdom.</p>
                <p>Endeavour to quicken your Heart in the Uſe of Means for further Inſtruction, endeavour to underſtand what the Miniſter ſays in explaining the Subject, thank God for his Goodneſs in ſending you ſuch a Miniſter or Miniſters, by whoſe Means the Lord is pleaſed to teach you that which you know not, and yet neceſſarily muſt know; and endeavour for the Future, better to prepare thyſelf.</p>
             </div>
             <div n="7" type="part">
@@ -183,7 +183,7 @@
                <head>VIII.</head>
                <p>Finally, Catechizing being finiſhed, here alſo the End muſt crown the Work.</p>
                <p>Let Pride and Vanity be far from thee, it is very unbecoming that young People ſhould come from ſuch Exerciſe as from a vain idle Place, entertaining them<g ref="char:EOLhyphen"/>ſelves with laughing, and in this laughing and ſporting, exalting themſelves and deſpiſing others, repeating what
-<pb n="viii" facs="tcp:010001_0008_0F7B7AB05E7D8EA8"/>they themſelves knew or did not know, ſpeaking there<g ref="char:EOLhyphen"/>of in a diſreſpectful Manner; ſo that ſuch People ſhew their own Folly, and prevent the Freedom of others.</p>
+<pb n="viii" facs="unknown:010001_0008_0F7B7AB05E7D8EA8"/>they themſelves knew or did not know, ſpeaking there<g ref="char:EOLhyphen"/>of in a diſreſpectful Manner; ſo that ſuch People ſhew their own Folly, and prevent the Freedom of others.</p>
                <p>But on the Contrary, let Sobriety and Gravity be your Ornaments; go alone or with one another to your Houſes, ponder on the Subject you have heard, ſearch as in the Divine Preſence, how you have behaved at Catechizing. Be not content that your Ears only have heard, but endeavour after an hearty Experience of thoſe Things.</p>
                <p>Thank God for what you have had an Opportunity of hearing, and ſpeaking; endeavour to preſerve it in thy Heart and Memory, yea even on Paper, in Order to make Uſe thereof occaſionally; to that End, pray God for the Grace of his Holy Spirit, to preſerve and bring thoſe Things to your Remembrance.</p>
             </div>
@@ -197,7 +197,7 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:010001_0009_0F7B7AB11C429E80"/>
+            <pb facs="unknown:010001_0009_0F7B7AB11C429E80"/>
             <head>SPECIMEN OF Divine Truths, <hi>&amp;c.</hi>
             </head>
             <div n="1" type="chapter">
@@ -221,7 +221,7 @@
                </p>
                <p n="6">6. <hi>Q.</hi> How can we conclude from the Creatures, that there-muſt be a God?</p>
                <p>
-                  <pb n="10" facs="tcp:010001_0010_0F7B7AB2F2399310"/>
+                  <pb n="10" facs="unknown:010001_0010_0F7B7AB2F2399310"/>
                   <hi>A.</hi> Becauſe they cannot be, nor exiſt of themſelves, but muſt neceſſarily be created, and continually upheld by God. Job 12.9. <hi>Who, knoweth not in all theſe, that the Hand of the Lord hath wrought this.</hi>
                </p>
                <p n="7">7. <hi>Q.</hi> Is this natural Knowledge ſufficient to Salvation?</p>
@@ -251,7 +251,7 @@
                <p n="3">3. <hi>Q.</hi> How did God then make known his Word?</p>
                <p>
                   <hi>A.</hi> By Speech and Revelation to the Fathers. Gen. 18.1. <hi>And the</hi> LORD <hi>appeared unto Abraham in the Plains of Mamre, and He ſat in the Tent Door in the Heat of the Day.</hi>
-                  <pb n="11" facs="tcp:010001_0011_0F7B7AB37B354D88"/>Chap. 28.12. <hi>And he dreamed and behold a Ladder ſet upon the Earth and the Top of it reached unto Heaven: And behold the Angels of God aſcending and deſcending on it.</hi>
+                  <pb n="11" facs="unknown:010001_0011_0F7B7AB37B354D88"/>Chap. 28.12. <hi>And he dreamed and behold a Ladder ſet upon the Earth and the Top of it reached unto Heaven: And behold the Angels of God aſcending and deſcending on it.</hi>
                </p>
                <p n="4">4. <hi>Q.</hi> How did they then preſerve that among themſelves?</p>
                <p>
@@ -276,7 +276,7 @@
                </p>
                <p n="10">10. Q. How many Teſtaments are there in the Scriptures?</p>
                <p>A. Two; the Old and New Teſtament. 2 Cor. 3.14. <hi>But their Minds were blinded; for until this Day remaineth the ſame Vail untaken away, in the reading of the Old Teflament;
-<pb n="12" facs="tcp:010001_0012_0F7B7AB43B799218"/>which Vail is done away in Chriſt.</hi> Heb. 9.15. <hi>And for this Cauſe, he is the Mediator of the New Teſtament, that by Means of Death, for the Redemption of the Trangreſſions that were under the firſt Teſtament, they which are called might receive the Promiſe of eternal Inheritance.</hi>
+<pb n="12" facs="unknown:010001_0012_0F7B7AB43B799218"/>which Vail is done away in Chriſt.</hi> Heb. 9.15. <hi>And for this Cauſe, he is the Mediator of the New Teſtament, that by Means of Death, for the Redemption of the Trangreſſions that were under the firſt Teſtament, they which are called might receive the Promiſe of eternal Inheritance.</hi>
                </p>
                <p n="11">11. Q. In what Language is the Old Teſtament written?</p>
                <p>A. In the Hebrew, and a ſmall Part in the Chaldean Lan<g ref="char:EOLhyphen"/>guage.</p>
@@ -301,7 +301,7 @@
                   <hi>A.</hi> No: The Scriptures alone are ſufficient. Matt. 15.9. <hi>But in vain do they worſhip me, teaching for Doctrines the Commandments of Men.</hi>
                </p>
                <p n="19">
-                  <pb n="13" facs="tcp:010001_0013_0F7B7AB4D8BBD150"/>
+                  <pb n="13" facs="unknown:010001_0013_0F7B7AB4D8BBD150"/>
 19. Q. Are the Scriptures clear or obſcure?</p>
                <p>
                   <hi>A.</hi> They are clear in thoſe Things that are neceſſary to Salvation. Pſ. 119.105. <hi>Thy Word is a Light for my Feet, and a Lamp for my Path.</hi>
@@ -319,7 +319,7 @@
                </p>
             </div>
             <div n="3" type="chapter">
-               <pb n="14" facs="tcp:010001_0014_0F7B7AB789ABDC50"/>
+               <pb n="14" facs="unknown:010001_0014_0F7B7AB789ABDC50"/>
                <head>CHAP. III. Of GOD.</head>
                <div n="1" type="part">
                   <head>i. In General.</head>
@@ -347,7 +347,7 @@
                   </p>
                </div>
                <div n="2" type="part">
-                  <pb n="15" facs="tcp:010001_0015_0F7B7AB889CB4748"/>
+                  <pb n="15" facs="unknown:010001_0015_0F7B7AB889CB4748"/>
                   <head>ii. Of GOD's Names.</head>
                   <p n="1">1. Queſt. Hath God Need of Names, in the Manner Men have?</p>
                   <p>
@@ -380,7 +380,7 @@
                   <p n="9">9. Q. Can this Name be given to a Creature?</p>
                   <p>
                      <hi>A.</hi> No; Iſaiah 42.8. <hi>I am the Lord, that is my Name, and
-<pb n="16" facs="tcp:010001_0016_0F7B7AB8B9F47CA0"/>my Glory will I not give to another, neither my Praiſe to graven Images.</hi>
+<pb n="16" facs="unknown:010001_0016_0F7B7AB8B9F47CA0"/>my Glory will I not give to another, neither my Praiſe to graven Images.</hi>
                   </p>
                   <p n="10">10. Q. Doth this Name imply ſomething ſo great, that it cannot be given to a Creature?</p>
                   <p>
@@ -399,7 +399,7 @@
                   <p>
                      <hi>A.</hi> Not in God; For in him all is infinite Perfection; But they are diſtinguiſhed only according to our Manner of Comprehen<g ref="char:EOLhyphen"/>ſion, and according to the ſeveral Exerciſes of God's Perfections concerning the Creatures.</p>
                   <p n="3">
-                     <pb n="17" facs="tcp:010001_0017_0F7B7AB963F4A6A0"/>
+                     <pb n="17" facs="unknown:010001_0017_0F7B7AB963F4A6A0"/>
 3. Q. How are God's Attributes, or Properties thus gene<g ref="char:EOLhyphen"/>rally diſtinguiſhed?</p>
                   <p>
                      <hi>A.</hi> Into incommunicable and communicable Properties, Gen. 1.26. <hi>And God ſaid, let us make Man in our Image. after our Likeneſs:</hi> 2 Pet. 1.4. <hi>Whereby are given unto us exceeding great and precious Promiſes: That by theſe you might be made Partakers of the divine Nature.</hi> 1 John 3.2. <hi>Beloved now are we the Sons of God, and it doth not yet appear what we ſhall be: But we know that when we ſhall appear, we ſhall be like him; for we ſhall ſee him as he is.</hi>
@@ -428,7 +428,7 @@
                   <p n="10">10. Q. Where is God?</p>
                   <p>
                      <hi>A.</hi> Every where preſent. Jer. 23.23, 24. <hi>Am I a God at Hand, ſaith the Lord, and not a God after off? Can any hide
-<pb n="18" facs="tcp:010001_0018_0F7B7ABA1E868788"/>himſelf in ſecret Places, that I ſhall not ſee him, ſaith the Lord: Do I not fill Heaven and Earth? ſaith the Lord.</hi>
+<pb n="18" facs="unknown:010001_0018_0F7B7ABA1E868788"/>himſelf in ſecret Places, that I ſhall not ſee him, ſaith the Lord: Do I not fill Heaven and Earth? ſaith the Lord.</hi>
                   </p>
                   <p n="11">11. Q. Muſt this be underſtood only of his Operations, or of his Eſſence.</p>
                   <p>
@@ -456,7 +456,7 @@
                      <hi>A.</hi> The following are generally accounted ſuch, to wit, God's Knowledge, Will and Power, his Goodneſs, Grace, Mercy and Patience.</p>
                   <p n="17">17. Q. Why are theſe called communicable?</p>
                   <p>
-                     <pb n="19" facs="tcp:010001_0019_0F7B7ABB582555E0"/>
+                     <pb n="19" facs="unknown:010001_0019_0F7B7ABB582555E0"/>
                      <hi>A.</hi> Becauſe there is ſome faint Reſemblance of them in the Creatures; although as they are in God they are infinite, and ſo incommunicable.</p>
                   <p n="18">18. Q. What is God's Knowledge?</p>
                   <p>
@@ -485,7 +485,7 @@
                   </p>
                   <p n="25">25. Q. By which of theſe two muſt we be regulated?</p>
                   <p>
-                     <pb n="20" facs="tcp:010001_0020_0F7B7ABB9B86D830"/>
+                     <pb n="20" facs="unknown:010001_0020_0F7B7ABB9B86D830"/>
                      <hi>A.</hi> According to his preceptive Will: for the Will of God in his Decree is unknown to us. Deut. 29.29. <hi>The ſecret Things belong unto the Lord our God: But thoſe Things which are revealed belong unto us and to our Children for ever, that we may do all the Words of this Law.</hi>
                   </p>
                   <p n="26">26. Q. What is the Juſtice of God?</p>
@@ -507,7 +507,7 @@
                   <p n="30">30. Q. But God however forgiveth Believers the Guilt and Puniſhment of Sins?</p>
                   <p>
                      <hi>A.</hi> Then God's Juſtice is already ſatisfied in Chriſt, who hath borne the Puniſhment of Sins for them. Eph. 1.7. <hi>In
-<pb n="21" facs="tcp:010001_0021_0F7B7ABD809CEBE0"/>whom we have Redemption through his Blood, the Forgiveneſs of ins, according to the Riches of his Grace.</hi>
+<pb n="21" facs="unknown:010001_0021_0F7B7ABD809CEBE0"/>whom we have Redemption through his Blood, the Forgiveneſs of ins, according to the Riches of his Grace.</hi>
                   </p>
                   <p n="31">31. Q. Of what Kind is God's Power.</p>
                   <p>
@@ -530,7 +530,7 @@
                   <p n="36">36. Q. What is God's Mercy?</p>
                   <p>
                      <hi>A.</hi> It is that divine Goodneſs toward the miſerable elect
-<pb n="22" facs="tcp:010001_0022_0F7B7ABE0EF23BA0"/>Sinner, by which he actually reſtores him to a State of Grace, through the Mediator Jeſus Chriſt. Exod. 34.6. <hi>And the Lord paſſed by before him, and proclaimed the</hi> LORD, <hi>the</hi> LORD GOD, <hi>merciful and gracious, long ſuffering, and abun<g ref="char:EOLhyphen"/>dant in Goodneſs and Truth.</hi> Eph. 2.4. <hi>But God, who is rich in Mercy, for his great Love wherewith he loved us.</hi>
+<pb n="22" facs="unknown:010001_0022_0F7B7ABE0EF23BA0"/>Sinner, by which he actually reſtores him to a State of Grace, through the Mediator Jeſus Chriſt. Exod. 34.6. <hi>And the Lord paſſed by before him, and proclaimed the</hi> LORD, <hi>the</hi> LORD GOD, <hi>merciful and gracious, long ſuffering, and abun<g ref="char:EOLhyphen"/>dant in Goodneſs and Truth.</hi> Eph. 2.4. <hi>But God, who is rich in Mercy, for his great Love wherewith he loved us.</hi>
                   </p>
                   <p n="37">37. Q. What is God's Patience, or Long ſuffering?</p>
                   <p>
@@ -552,7 +552,7 @@
                   <p>
                      <hi>A.</hi> Yes, for we alſo find it in Scripture, <hi>Heb.</hi> 1.3. <hi>Who being the Brightneſs of his Glory, and the expreſs Image of his</hi> PERSON.</p>
                   <p n="4">
-                     <pb n="23" facs="tcp:010001_0023_0F7B7ABEC090C680"/>
+                     <pb n="23" facs="unknown:010001_0023_0F7B7ABEC090C680"/>
 4. Q. Can the Doctrine of the Holy Trinity be proved from Nature?</p>
                   <p>
                      <hi>A.</hi> No: But only from Scripture, for it is a Myſtery above the Reach of, tho' not contrary to Nature.</p>
@@ -575,7 +575,7 @@
                   <p>
                      <hi>A.</hi> In Eſſence.</p>
                   <p n="9">
-                     <pb n="24" facs="tcp:010001_0024_0F7B7ABF57BD87A8"/>
+                     <pb n="24" facs="unknown:010001_0024_0F7B7ABF57BD87A8"/>
 9. Q. Wherein are they three?</p>
                   <p>
                      <hi>A.</hi> In Perſons.</p>
@@ -612,7 +612,7 @@
                   <p n="18">18. <hi>Q.</hi> Why is the ſecond Perſon properly called the Son of God?</p>
                   <p>
                      <hi>A.</hi> Becauſe from Eternity to Eternity, the Father commu<g ref="char:EOLhyphen"/>nicates to the Son, the ſame divine Eſſence, John 26.6. <hi>For
-<pb n="25" facs="tcp:010001_0025_0F7B7AC2E79B5010"/>as the Father hath Life in himſelf, ſo hath be given to the Son to have Life in himſelf.</hi> Col. 1.15. <hi>Who is the Image of the inviſible God, the firſt born of every Creature.</hi> Col. 2.9. <hi>For in him dwelleth all the Fullneſs of the God-head bodily.</hi> Heb. 1.3. <hi>Who being the Brightneſs of his Glory, and the expreſs Image of his Perſon, and upholding all Things by the Word of his Power, when he had by himſelf purged our Sins, ſat down on the Right-Hand of the Majeſty on high.</hi>
+<pb n="25" facs="unknown:010001_0025_0F7B7AC2E79B5010"/>as the Father hath Life in himſelf, ſo hath be given to the Son to have Life in himſelf.</hi> Col. 1.15. <hi>Who is the Image of the inviſible God, the firſt born of every Creature.</hi> Col. 2.9. <hi>For in him dwelleth all the Fullneſs of the God-head bodily.</hi> Heb. 1.3. <hi>Who being the Brightneſs of his Glory, and the expreſs Image of his Perſon, and upholding all Things by the Word of his Power, when he had by himſelf purged our Sins, ſat down on the Right-Hand of the Majeſty on high.</hi>
                   </p>
                   <p n="19">19. Q. Did not he then become the Son of God by his Birth of the Virgin Mary, or by his Mediatorſhip?</p>
                   <p>
@@ -629,7 +629,7 @@
                   <p n="22">22. Q. Is he alſo a diſtinct Perſon?</p>
                   <p>
                      <hi>A.</hi> Yes; He is expreſly called, another, John 14.16, 17. <hi>And I will pray the Father, and he ſhall give you another Com<g ref="char:EOLhyphen"/>forter
-<pb n="26" facs="tcp:010001_0026_0F7B7AC39762BD78"/>that he may abide with you for ever; even the Spirit of Truth.</hi>
+<pb n="26" facs="unknown:010001_0026_0F7B7AC39762BD78"/>that he may abide with you for ever; even the Spirit of Truth.</hi>
                   </p>
                   <p n="23">23. Q. Whence do you prove, that the Son and the Holy Ghoſt are God as well as the Father?</p>
                   <p>
@@ -647,7 +647,7 @@
                   </p>
                   <p n="27">27. Q. Prove that a divine Attribute is aſcribed to the Holy Ghoſt?</p>
                   <p>
-                     <pb n="27" facs="tcp:010001_0027_0F7B7AC4EC700D88"/>
+                     <pb n="27" facs="unknown:010001_0027_0F7B7AC4EC700D88"/>
                      <hi>A.</hi> Omnipreſence, Pſ. 139.7. <hi>Whither ſhall I go from thy</hi> SPIRIT? <hi>Or whither ſhall I flee from thy Preſence?</hi>
                   </p>
                   <p n="28">28. Q. What divine Works are aſcribed to the Son and Holy Ghoſt?</p>
@@ -671,7 +671,7 @@
                   <hi>A.</hi> No: They are the decreeing God himſelf, ſo that his Underſtanding and Will are exerciſed in determining Things without him.</p>
                <p n="2">2. Q When hath God formed his Decrees?</p>
                <p>
-                  <pb n="28" facs="tcp:010001_0028_0F7B7AC5695D8210"/>
+                  <pb n="28" facs="unknown:010001_0028_0F7B7AC5695D8210"/>
                   <hi>A.</hi> From Eternity. Acts 15.18. <hi>Known unto God are all his Works from the Beginning of the World</hi> (or from Eternity).</p>
                <p n="3">3. Q Are the Decrees of God free?</p>
                <p>
@@ -698,7 +698,7 @@
                   <p n="2">2. Q. How is that Decree called?</p>
                   <p>
                      <hi>A.</hi> Predeſtination or Fore-ordaining. Rom. 8.30. <hi>More<g ref="char:EOLhyphen"/>over whom he did predeſtinate, them he alſo called; and whom
-<pb n="29" facs="tcp:010001_0029_0F7B7AC61C1E6CE0"/>he called he alſo juſtified; and whom he juſtified, them he alſo glorified.</hi>
+<pb n="29" facs="unknown:010001_0029_0F7B7AC61C1E6CE0"/>he called he alſo juſtified; and whom he juſtified, them he alſo glorified.</hi>
                   </p>
                   <p n="3">3. How many Acts of God muſt we therein take Notice of?</p>
                   <p>
@@ -731,7 +731,7 @@
                      <hi>A.</hi> No; It is unchangeable. Rom. 9.11. <hi>For the Children being not yet born, neither having done any Good or Evil, that the Purpoſe of God according to Election might ſtand, not of Works but of him that calleth.</hi>
                   </p>
                   <p n="11">
-                     <pb n="30" facs="tcp:010001_0030_0F7B7AC6EB906F70"/>
+                     <pb n="30" facs="unknown:010001_0030_0F7B7AC6EB906F70"/>
 11. Q. Doth it not follow from hence that it is all one how we live?</p>
                   <p>
                      <hi>A.</hi> No; For God hath decreed the Means, as well as the End. Rom. 8.29, 30. <hi>For whom he did foreknow he alſo did predeſtinate to be conformed to the Image of his Son, that he might be the firſt born among many Brethren. Moreover whom he did predeſtinate, them he alſo called, and whom he called, them he alſo juſtified: And whom he juſtified, them he alſo glorified.</hi>
@@ -751,7 +751,7 @@
                </div>
             </div>
             <div n="5" type="chapter">
-               <pb n="31" facs="tcp:010001_0031_0F7B7AC7CEFF7270"/>
+               <pb n="31" facs="unknown:010001_0031_0F7B7AC7CEFF7270"/>
                <head>CHAP. V. Of the Counſel of Peace.</head>
                <p n="1">1. Queſt. HOW could God fore-ordain ſome of the fal<g ref="char:EOLhyphen"/>len Race of Man to Salvation, ſeeing he can have no Communion with the Sinner?</p>
                <p>
@@ -773,7 +773,7 @@
                <p>
                   <hi>A.</hi> Of Surety and Mediator, who was about to bring himſelf under an Obligation to ſatisfy for the Sins of the Elect.</p>
                <p n="7">
-                  <pb n="32" facs="tcp:010001_0032_0F7B7AC859AC6EF8"/>
+                  <pb n="32" facs="unknown:010001_0032_0F7B7AC859AC6EF8"/>
 7. Q. What did the Father do in the Counſel of Peace?</p>
                <p>
                   <hi>A.</hi> The Father demanded of his Son all that was neceſſary for the Redemption of the Elect; which demand is the Father's external Will. John 6.39. <hi>And this is the Father's Will which hath ſent me, that of all which he hath given me, I ſhould loſe nothing, but ſhould raiſe it up again the laſt Day.</hi>
@@ -803,7 +803,7 @@
                      <desc>〈◊〉</desc>
                   </gap> his Works.</p>
                <p n="2">
-                  <pb n="33" facs="tcp:010001_0033_0F7B7AC9F03A5FE0"/>
+                  <pb n="33" facs="unknown:010001_0033_0F7B7AC9F03A5FE0"/>
 2. Q. Of how many Sorts are his Works in Time?</p>
                <p>
                   <hi>A.</hi> Of two Sorts; His Works of Nature, and his Works of Grace.</p>
@@ -840,7 +840,7 @@
                <p n="12">12. Q. When were they created?</p>
                <p>
                   <hi>A.</hi> Probably on the firſt Day; <hi>For when the Earth was
-<pb n="34" facs="tcp:010001_0034_0F7B7ACA97C528C8"/>founded, then the Morning Stars ſang together, and all the Sons of God ſhouted.</hi> Job. 38.6, 7.</p>
+<pb n="34" facs="unknown:010001_0034_0F7B7ACA97C528C8"/>founded, then the Morning Stars ſang together, and all the Sons of God ſhouted.</hi> Job. 38.6, 7.</p>
                <p n="13">13. Q. How did God create the Angels, Good or Evil?</p>
                <p>
                   <hi>A.</hi> Good; For, <hi>God ſaw all that he had made, and behold it was very good.</hi> Gen. 1.31.</p>
@@ -878,7 +878,7 @@
                   <hi>A.</hi> That he ceaſed to create.</p>
                <p n="24">24. Q To what End hath God created the World?</p>
                <p>
-                  <pb n="35" facs="tcp:010001_0035_0F7B7ACEB520DC50"/>
+                  <pb n="35" facs="unknown:010001_0035_0F7B7ACEB520DC50"/>
                   <hi>A. The Lord hath made all Things for himſelf,</hi> that is, to his own Glory. Prov. 16.4.</p>
             </div>
             <div n="7" type="chapter">
@@ -908,7 +908,7 @@
                </p>
                <p n="7">7. Q. Doth it extend even to ſmall Things?</p>
                <p>
-                  <pb n="36" facs="tcp:010001_0036_0F7B7ACF6131D168"/>
+                  <pb n="36" facs="unknown:010001_0036_0F7B7ACF6131D168"/>
                   <hi>A.</hi> Yes: <hi>The Hairs of your Head are all numbered.</hi> Matt. 10.30.</p>
                <p n="8">8. Q. Is it not to the Diſhonour of God to care for ſuch mean Things?</p>
                <p>
@@ -939,7 +939,7 @@
                <p n="16">16. Q. Doth the Providence of God concern itſelf alſo about Sin?</p>
                <p>
                   <hi>A.</hi> Yes; He permits it, limits and directs it to a certain End. Gen. 50.20. <hi>But as for you ye thought Evil againſt me,
-<pb n="37" facs="tcp:010001_0037_0F7B7AD0C39D1450"/>but God meant it unto good, to bring to paſs, as it is this Day, to ſave much People alive.</hi>
+<pb n="37" facs="unknown:010001_0037_0F7B7AD0C39D1450"/>but God meant it unto good, to bring to paſs, as it is this Day, to ſave much People alive.</hi>
                </p>
                <p n="17">17. Q. Is God the Author of Sin?</p>
                <p>
@@ -963,7 +963,7 @@
                <head>CHAP. VIII. Of the Covenant of Works.</head>
                <p n="1">1. Queſt. DOTH God uſe any particular Way in govern<g ref="char:EOLhyphen"/>ing Man?</p>
                <p>
-                  <pb n="38" facs="tcp:010001_0038_0F7B7AD15A5902A8"/>
+                  <pb n="38" facs="unknown:010001_0038_0F7B7AD15A5902A8"/>
                   <hi>A.</hi> Yes; For God governs him by Way of a Covenant.</p>
                <p n="2">2. Q. How many Covenants are there?</p>
                <p>
@@ -1002,7 +1002,7 @@
                <p n="1">1. Queſt. COULD Man keep that Covenant?</p>
                <p>
                   <hi>A.</hi> Yes; For God had created Man capa<g ref="char:EOLhyphen"/>ble
-<pb n="39" facs="tcp:010001_0039_0F7B7AD22157DBB0"/>of keeping.</p>
+<pb n="39" facs="unknown:010001_0039_0F7B7AD22157DBB0"/>of keeping.</p>
                <p n="2">2. Q. How did God create Man?</p>
                <p>
                   <hi>A.</hi> Good and upright.</p>
@@ -1036,7 +1036,7 @@
                </p>
             </div>
             <div n="10" type="chapter">
-               <pb n="40" facs="tcp:010001_0040_0F7B7AD2E0FABBD8"/>
+               <pb n="40" facs="unknown:010001_0040_0F7B7AD2E0FABBD8"/>
                <head>CHAP. X. Of <hi>SIN.</hi>
                </head>
                <div n="1" type="part">
@@ -1059,7 +1059,7 @@
                   <p n="6">6. Q. By whom was ſhe deceived?</p>
                   <p>
                      <hi>A.</hi> By the Devil, through the Means of a Serpent. Gen. 3.1 to 7. <hi>Now the Serpent was more ſubtil than any Beaſt of the Field, which the Lord God had made: And he ſaid unto the Wo<g ref="char:EOLhyphen"/>man, yea hath God ſaid ye ſhall not eat of every Tree of the Gar<g ref="char:EOLhyphen"/>den? And the Woman ſaid unto the Serpent, we may eat of the Fruit of the Trees of the Garden: But of the Fruit of the Tree, which is in the Midſt of the Garden, God hath ſaid, ye ſhall not eat of it, neither ſhall ye touch it, leſt ye die. And the Serpent ſaid unto the Woman, ye ſhall not ſurely die, for God doth know, that in the Day ye eat thereof, then your Eyes ſhall be opened; And ye ſhall be as Gods, knowing Good and Evil. And when the Woman ſaw that the Tree was good for Food, and that it was pleaſant to the Eyes, and a Tree to be deſired to make one wiſe;
-<pb n="41" facs="tcp:010001_0041_0F7B7AD39AC758C0"/>ſhe took of the Fruit thereof and did eat, and gave alſo unto her Huſband with her, and he did eat. And the Eyes of them both were opened, and they knew that they were naked: And they ſewed Fig leaves together, and made themſelves Aprons.</hi> Rev. 12.9. <hi>And the great Dragon was caſt out, that old Serpent called the Devil and Satan, which deceiveth the whole World.</hi> John 8.44. <hi>Ye are of your Father, the Devil, and the Luſts of your Father ye will do: He was a Murderer from the be<g ref="char:EOLhyphen"/>ginning, and abode not in the Truth, becauſe there is no Truth in him. When he ſpeaketh a Lie, he ſpeaketh of his own: For he is a Lyar, and the Father of it.</hi>
+<pb n="41" facs="unknown:010001_0041_0F7B7AD39AC758C0"/>ſhe took of the Fruit thereof and did eat, and gave alſo unto her Huſband with her, and he did eat. And the Eyes of them both were opened, and they knew that they were naked: And they ſewed Fig leaves together, and made themſelves Aprons.</hi> Rev. 12.9. <hi>And the great Dragon was caſt out, that old Serpent called the Devil and Satan, which deceiveth the whole World.</hi> John 8.44. <hi>Ye are of your Father, the Devil, and the Luſts of your Father ye will do: He was a Murderer from the be<g ref="char:EOLhyphen"/>ginning, and abode not in the Truth, becauſe there is no Truth in him. When he ſpeaketh a Lie, he ſpeaketh of his own: For he is a Lyar, and the Father of it.</hi>
                   </p>
                   <p n="7">7. Q. What did he make them believe?</p>
                   <p>
@@ -1085,7 +1085,7 @@
                   </p>
                   <p n="3">3. Q. What Sin do we derive from Adam?</p>
                   <p>
-                     <pb n="42" facs="tcp:010001_0042_0F7B7AD511F34E70"/>
+                     <pb n="42" facs="unknown:010001_0042_0F7B7AD511F34E70"/>
                      <hi>A.</hi> Original Sin. Pſ. 51.5. <hi>Behold I was ſhapen in Ini<g ref="char:EOLhyphen"/>quity, and in Sin did my Mother conceive me.</hi>
                   </p>
                   <p n="4">4. Q How many Sorts of Sin are there?</p>
@@ -1118,7 +1118,7 @@
                   </p>
                   <p n="12">12. Q. Have all Men Original Sin?</p>
                   <p>
-                     <pb n="43" facs="tcp:010001_0043_0F7B7AD51AB41328"/>
+                     <pb n="43" facs="unknown:010001_0043_0F7B7AD51AB41328"/>
                      <hi>A.</hi> All: Except Chriſt. John 3.6. <hi>That which is born of Fleſh is Fleſh.</hi>
                   </p>
                   <p n="13">13. Q. Why had Chriſt no original Sin?</p>
@@ -1151,7 +1151,7 @@
                      <hi>A.</hi> No: Eph. 2.1. <hi>And you hath he quickened, who were dead in Treſpaſſes and Sins.</hi>
                   </p>
                   <p n="7">
-                     <pb n="44" facs="tcp:010001_0044_0F7B7AD5D79CF3D0"/>
+                     <pb n="44" facs="unknown:010001_0044_0F7B7AD5D79CF3D0"/>
 7. Q. Are not then all Commands, Threatenings, and Pro<g ref="char:EOLhyphen"/>miſes of God, in vain?</p>
                   <p>
                      <hi>A.</hi> No; They are Means, whereby God will excite Man as a rational Creature, to his Duty.</p>
@@ -1189,7 +1189,7 @@
                </div>
             </div>
             <div n="11" type="chapter">
-               <pb n="45" facs="tcp:010001_0045_0F7B7AD94B5ED3E0"/>
+               <pb n="45" facs="unknown:010001_0045_0F7B7AD94B5ED3E0"/>
                <head>CHAP. XI. Of the Covenant of Grace.</head>
                <p n="1">1. Queſt. IS there another Covenant eſtabliſhed in the Room of the Covenant of Works?</p>
                <p>
@@ -1211,7 +1211,7 @@
                   <hi>A.</hi> That which God requires in, is alſo a Promiſe of the Covenant; Namely, Faith in Chriſt. Hoſ. 2.20. <hi>I will even betroth thee unto me in Faithfulneſs, and thou ſhalt know the Lord.</hi> Hab. 2.4. <hi>But the Juſt ſhall live by his Faith.</hi> Pſ. 27.8. <hi>When thou ſaidſt, ſeek ye my Face, my Heart ſaid unto thee, thy Face Lord, will I ſeek.</hi>
                </p>
                <p n="6">
-                  <pb n="46" facs="tcp:010001_0046_0F7B7AD9F64CC990"/>
+                  <pb n="46" facs="unknown:010001_0046_0F7B7AD9F64CC990"/>
 6. Q. What doth God promiſe therein?</p>
                <p>
                   <hi>A.</hi> Grace here, and eternal Life hereafter. Acts 16.31. <hi>Believe on the Lord Jeſus Chriſt, and thou ſhalt be ſaved, thou and thy Houſe.</hi>
@@ -1236,7 +1236,7 @@
                <p n="12">12. Q. What are the Properties of this Conſent?</p>
                <p>
                   <hi>A.</hi> The Sinner performs this Solemnly, Freely, Humbly, Faithfully, Uprightly, with a full Conſent as well to the De<g ref="char:EOLhyphen"/>mands as to the Promiſes of the Covenant, Pſ. 51.6. <hi>Be<g ref="char:EOLhyphen"/>hold
-<pb n="47" facs="tcp:010001_0047_0F7B7ADB5F5C07C8"/>thou deſireſt Truth in the inward Parts: And in the hid<g ref="char:EOLhyphen"/>den Part thou ſhalt make me to know Wiſdom.</hi>
+<pb n="47" facs="unknown:010001_0047_0F7B7ADB5F5C07C8"/>thou deſireſt Truth in the inward Parts: And in the hid<g ref="char:EOLhyphen"/>den Part thou ſhalt make me to know Wiſdom.</hi>
                </p>
                <p n="13">13. Q. What are the Effects of this Conſent?</p>
                <p>
@@ -1257,7 +1257,7 @@
                   <hi>A.</hi> Yes; For in him is fulfilled all that was foretold of the Meſſiah.</p>
                <p n="4">4. Q. Did he appear in due Time?</p>
                <p>
-                  <pb n="48" facs="tcp:010001_0048_0F7B7ADBDE063010"/>
+                  <pb n="48" facs="unknown:010001_0048_0F7B7ADBDE063010"/>
                   <hi>A.</hi> Yes; <hi>Before the Scepter was departed from Judah, and the Law-Giver from between his Feet,</hi> Gen. 49.10. 2dly. While the ſecond Temple ſtood, according to Hag. 2.2. and 3dly, When the 70 Weeks were about expired. Dan. 9.</p>
                <p n="5">5. Q. Wherein is the Mediator to be known?</p>
                <p>
@@ -1290,7 +1290,7 @@
                      <hi>A.</hi> No; He ſurely applies this Salvation to all thoſe for whom he hath merited it Iſaiah 53 11. <hi>He ſhall ſee the Travail of his Soul, and ſhall be ſatisfied: By his Knowledge ſhall my righteous Servant juſtify mary; for he ſhall bear their Iniquities.</hi>
                   </p>
                   <p n="8">
-                     <pb n="49" facs="tcp:010001_0049_0F7B7ADC9E211E98"/>
+                     <pb n="49" facs="unknown:010001_0049_0F7B7ADC9E211E98"/>
 8. Q. Doth this Application depend on ourſelves?</p>
                   <p>
                      <hi>A.</hi> No; But on the powerful Operation of the Divine Grace.</p>
@@ -1330,7 +1330,7 @@
                      <hi>A.</hi> Becauſe God by that anointing ſometimes rendered ſuch Perſons fit for their ſeveral Offices.</p>
                   <p n="11">11. Q. Wherewith is Chriſt anointed or qualified?</p>
                   <p>
-                     <pb n="50" facs="tcp:010001_0050_0F7B7ADD5A16CD70"/>
+                     <pb n="50" facs="unknown:010001_0050_0F7B7ADD5A16CD70"/>
                      <hi>A.</hi> With the Holy Ghoſt. Acts 10.38. <hi>How God anoint<g ref="char:EOLhyphen"/>ed Jeſus of Nazareth with the Holy Ghoſt, and with Power; who went about doing good, and healing all that were oppreſſed of the Devil: For God was with him.</hi>
                   </p>
                   <p n="12">12. Q. What peculiar Gifts of the Holy Ghoſt are com<g ref="char:EOLhyphen"/>municated to him?</p>
@@ -1361,7 +1361,7 @@
                   </p>
                </div>
                <div n="3" type="part">
-                  <pb n="51" facs="tcp:010001_0051_0F7B7ADE236CFC28"/>
+                  <pb n="51" facs="unknown:010001_0051_0F7B7ADE236CFC28"/>
                   <head>iii. Of his Offices.</head>
                   <p n="1">1. Queſt. To how many Offices is Chriſt anointed.</p>
                   <p>
@@ -1395,7 +1395,7 @@
                      <p n="3">3. Q. What doth he teach us?</p>
                      <p>
                         <hi>A.</hi> He teaches us the Way of Salvation. Iſaiah 61.1, 2, 3. <hi>The Spirit of the Lord God is upon me, becauſe the Lord hath anointed me to preach good Tidings unto the Meek, he hath ſent me to bind up the broken-hearted, to proclaim Liberty to the Captives, and the opening of the Priſon to them that are bound: To proclaim the acceptable Year of the Lord, and the Day of Vengeance of our God, to comfort all that mourn: To appoint unto them that mourn in Zion, to give unto them Beauty for Aſhes, the Oil of Joy for Mourning, the Garment of Praiſe for
-<pb n="52" facs="tcp:010001_0052_0F7B7ADF37CD7DF0"/>the Spirit of Heavineſs; that they may be called Trees of Righteouſneſs, the planting of the Lord that he might be glo<g ref="char:EOLhyphen"/>fied.</hi>
+<pb n="52" facs="unknown:010001_0052_0F7B7ADF37CD7DF0"/>the Spirit of Heavineſs; that they may be called Trees of Righteouſneſs, the planting of the Lord that he might be glo<g ref="char:EOLhyphen"/>fied.</hi>
                      </p>
                      <p n="4">4. Q. Whereby doth he teach us?</p>
                      <p>
@@ -1419,7 +1419,7 @@
                      </p>
                   </div>
                   <div n="b" type="section">
-                     <pb n="53" facs="tcp:010001_0053_0F7B7ADFC8F4FBE8"/>
+                     <pb n="53" facs="unknown:010001_0053_0F7B7ADFC8F4FBE8"/>
                      <head>B. Of his Prieſtly Office.</head>
                      <p n="1">1. Queſt. Was he alſo promiſed as a Prieſt?</p>
                      <p>
@@ -1454,7 +1454,7 @@
                         <hi>A.</hi> That he continually preſenteth his Merits unto his Fa<g ref="char:EOLhyphen"/>ther, and thereon demands the Salvation of his People. John 17.24. <q>Father I will that they alſo whom thou haſt given me be with me where I am, that they may behold my Glory, which thou haſt given me; for thou lovedſt me be<g ref="char:EOLhyphen"/>fore the Foundation of the World.</q>
                      </p>
                      <p n="10">
-                        <pb n="54" facs="tcp:010001_0054_0F7B7AE07660EDD0"/>
+                        <pb n="54" facs="unknown:010001_0054_0F7B7AE07660EDD0"/>
 10. Q. Where doth he thus interceed?</p>
                      <p>
                         <hi>A.</hi> In Heaven. Rom. 8.34. <hi>Chriſt—who is at the Right Hand of God, who alſo maketh Interceſſion for us.</hi>
@@ -1489,7 +1489,7 @@
                         <hi>A.</hi> Againſt their ſpiritual and carnal Enemies. John 10.28.29. <hi>I give unto them eternal Life, and they ſhall never periſh, neither ſhall any pluck them out of my Hand. My Fa<g ref="char:EOLhyphen"/>ther which gave them me is greater than all; And none is able to pluck them out of my Father's Hand.</hi>
                      </p>
                      <p n="5">
-                        <pb n="55" facs="tcp:010001_0055_0F7B7AE119670958"/>
+                        <pb n="55" facs="unknown:010001_0055_0F7B7AE119670958"/>
 5. Q. Is he an earthly King?</p>
                      <p>
                         <hi>A.</hi> No; But a ſpiritual and heavenly King. John 18.36. <hi>Jeſus anſwered, my Kingdom is not of this World: If my King<g ref="char:EOLhyphen"/>dom were of this World, then would my Servants fight, that I ſhould not be delivered to the Jews; But now is my Kingdom not from hence.</hi>
@@ -1517,7 +1517,7 @@
                   <p n="2">2. Q. Was that foretold?</p>
                   <p>
                      <hi>A.</hi> Yes; Iſaiah 9.6. <hi>For unto us a Child is born, unto us a Son is given, and the Government ſhall be upon his Shoulders: And his Name ſhall be called wonderful, Counſellor, the mighty
-<pb n="56" facs="tcp:010001_0056_0F7B7AE5AEA183E8"/>
+<pb n="56" facs="unknown:010001_0056_0F7B7AE5AEA183E8"/>
                         <gap reason="illegible" resp="#UOM" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap>, the everlaſting Father, the Prince of Peace:</hi>
@@ -1546,7 +1546,7 @@
                      <hi>A.</hi> To ſupport the human Nature in bearing the infinite Wrath of God; And to add an infinite Value to his Merits. Iſaiah 63.1, 2, 3. <hi>Who is he that cometh from Edom, with died Garments from Bozrah? This that is glorious in his Ap<g ref="char:EOLhyphen"/>parel, travelling in the Greatneſs of his Strength? I that ſpeak in Righteouſneſs mighty to ſave. Wherefore art thou red in thine Apparel, and thy Garments like him that treadeth the Wine-fat? I have trodden the Wine-preſs alone, and of the People there was none with me: For I will tread them in mine Anger; and trample them in my Fury, and their Blood ſhall be ſprinkled upon my Garments, and I will ſtain all my Ray<g ref="char:EOLhyphen"/>ment.</hi>
                   </p>
                   <p n="9">
-                     <pb n="57" facs="tcp:010001_0057_0F7B7AE65F801E10"/>
+                     <pb n="57" facs="unknown:010001_0057_0F7B7AE65F801E10"/>
 9. Q. Why muſt he be Man?</p>
                   <p>
                      <hi>A.</hi> In order to be in a Capacity to ſuffer and die?</p>
@@ -1584,7 +1584,7 @@
                   <p>
                      <hi>A.</hi> Yes; In the State of Humiliation it was neceſſary he ſhould purchaſe Salvation: And apply it in the State of Exaltation.</p>
                   <p n="3">
-                     <pb n="58" facs="tcp:010001_0058_0F7B7AE76B7A4B78"/>
+                     <pb n="58" facs="unknown:010001_0058_0F7B7AE76B7A4B78"/>
 3. Q. Which are the Degrees of his Humiliation?</p>
                   <p>
                      <hi>A.</hi> Firſt, His humble Birth, Secondly, His Sufferings. Thirdly, His Death. Fourthly, His Burial. Fifthly, Deſ<g ref="char:EOLhyphen"/>cending into Hell.</p>
@@ -1613,7 +1613,7 @@
                      <p n="5">5. Q. But it is written, <hi>He that aſcended is the ſame that deſcended.</hi> Eph. 4.9, 10.</p>
                      <p>
                         <hi>A.</hi> The ſame Perſon though not according to the ſame Nature; for according to his human Nature he hath aſcended,
-<pb n="59" facs="tcp:010001_0059_0F7B7AE7E0CF1410"/>but according to his his Divinity he deſcended, manifeſting himſelf in the Fleſh.</p>
+<pb n="59" facs="unknown:010001_0059_0F7B7AE7E0CF1410"/>but according to his his Divinity he deſcended, manifeſting himſelf in the Fleſh.</p>
                      <p n="6">6. Q. Where was he born?</p>
                      <p>
                         <hi>A.</hi> In Bethlehem, Micha 5.2. <hi>But thou Bethlebem Eph<g ref="char:EOLhyphen"/>ratah, though thou be little among the Tribes of Judah, yet out of thee ſhall come forth unto me, that is to be a Ruler in Iſrael: Whoſe going forth have been of old from everlaſting.</hi>
@@ -1642,7 +1642,7 @@
                      <p n="6">6. Q. Hath he ſuffered more?</p>
                      <p>
                         <hi>A.</hi> Yes; He was brought up in a poor deſpiſed Condi<g ref="char:EOLhyphen"/>tion,
-<pb n="60" facs="tcp:010001_0060_0F7B7AE8ADF5A7D0"/>and alſo his whole Life Time he endured the Hatred, Malice, and Perſecutions of his Enemies.</p>
+<pb n="60" facs="unknown:010001_0060_0F7B7AE8ADF5A7D0"/>and alſo his whole Life Time he endured the Hatred, Malice, and Perſecutions of his Enemies.</p>
                      <p n="7">7. Q. When were his Sufferings moſt ſevere?</p>
                      <p>
                         <hi>A.</hi> At the End of his Life: Read the Circumſtances there<g ref="char:EOLhyphen"/>of, Matt. 26th and 27th Chapters.</p>
@@ -1683,7 +1683,7 @@
                         <hi>A.</hi> In a new Grave hewn out of a Rock.</p>
                      <p n="3">3. Q. Why was he buried?</p>
                      <p>
-                        <pb n="61" facs="tcp:010001_0061_0F7B7AE96AC49008"/>
+                        <pb n="61" facs="unknown:010001_0061_0F7B7AE96AC49008"/>
                         <hi>A.</hi> To aſſure us that he was really dead.</p>
                      <p n="4">4. Q. Was his Burial alſo foretold?</p>
                      <p>
@@ -1720,7 +1720,7 @@
                      <head type="sub">His Satisfaction.</head>
                      <p n="1">1. Queſt. Hath Chriſt in his State of Humiliation, ſatisfied the Divine Juſtice?</p>
                      <p>
-                        <pb n="62" facs="tcp:010001_0062_0F7B7AEA1B28A300"/>
+                        <pb n="62" facs="unknown:010001_0062_0F7B7AEA1B28A300"/>
                         <hi>A.</hi> Yes; Iſaiah 53.4. <hi>Surely he hath borne our Griefs, and carried our Sorrows, yet we did eſteem him ſtricken, ſmit<g ref="char:EOLhyphen"/>ten of God, and afflicted.</hi>
                      </p>
                      <p n="2">2. Q. Wherein doth this Satisfaction conſiſt?</p>
@@ -1749,7 +1749,7 @@
                      <p>
                         <hi>A.</hi> For the Elect only.</p>
                      <p n="9">
-                        <pb n="63" facs="tcp:010001_0063_0F7B7AEAD8FC29F8"/>
+                        <pb n="63" facs="unknown:010001_0063_0F7B7AEAD8FC29F8"/>
 9. Q. Did he not die for all Men?</p>
                      <p>
                         <hi>A.</hi> No; But only for his <hi>People,</hi> Matt. 1.21. <hi>And ſhe ſhall bring forth a Son, and thou ſhalt call his Name,</hi> JESUS <hi>for he ſhall ſave his</hi> PEOPLE <hi>from their Sins.</hi> For his Sheep, John 10.11. <hi>I am the good Shepherd, the good Shepherd giveth his Life for the</hi> SHEEP. For his Church, Acts 20.28. <hi>Take heed therefore unto yourſelves, and to all the Flock, over the which the Holy Ghoſt hath made you Overſeers, to feed the</hi> CHURCH OF GOD, WHICH HE HATH PURCHASED WITH HIS OWN BLOOD.</p>
@@ -1764,7 +1764,7 @@
                      <p n="12">12. Q. Hath every one a Right to believe that Jeſus Chriſt hath ſatisfied for him?</p>
                      <p>
                         <hi>A,</hi> No; But only thoſe who receive him as the meriting, opperating, moving, and exemplary Cauſe of their ſpiritual Life. Titus 2.14. <hi>Who gave himſelf for us, that he might redeem us from all Iniquity, and purify unto himſelf, a peculiar People, zealous of good Works.</hi> John 12.24. <hi>Verily, Verily I ſay unto you, except a Corn of Wheat fall into the Ground and die, it abideth alone; But if it die it bringeth forth much
-<pb n="64" facs="tcp:010001_0064_0F7B7AECB2731D88"/>Fruit.</hi> 2 Cor. 5.14, 15. <hi>For the Love of Chriſt conſtraineth us, becauſe we thus judge, that if one died for all, then were all dead: And that he died for all, that they which live, ſhould not benceforth live unto themſelves, but unto him which died for them, and roſe again.</hi> Rom. 6.5. <hi>For if we have been planted together in the likeneſs of his</hi> DEATH, <hi>we ſhall be alſo in the Likeneſs of his</hi> RESURRECTION.</p>
+<pb n="64" facs="unknown:010001_0064_0F7B7AECB2731D88"/>Fruit.</hi> 2 Cor. 5.14, 15. <hi>For the Love of Chriſt conſtraineth us, becauſe we thus judge, that if one died for all, then were all dead: And that he died for all, that they which live, ſhould not benceforth live unto themſelves, but unto him which died for them, and roſe again.</hi> Rom. 6.5. <hi>For if we have been planted together in the likeneſs of his</hi> DEATH, <hi>we ſhall be alſo in the Likeneſs of his</hi> RESURRECTION.</p>
                   </div>
                </div>
                <div type="part">
@@ -1787,7 +1787,7 @@
                         <hi>A.</hi> By his Father's, and his own divine Power, being raiſed by his Father, and having aroſe by himſelf. Acts 2.24. <hi>Whom God hath raiſed up, having looſed the Pains of Death: Becauſe it was not poſſible that he ſhould be holden of it.</hi> John 2.19. <hi>Jeſus anſwered and ſaid unto them, deſtroy this Temple, and in three Days I will raiſe it up.</hi>
                      </p>
                      <p n="5">
-                        <pb n="65" facs="tcp:010001_0065_0F7B7AED501C1988"/>
+                        <pb n="65" facs="unknown:010001_0065_0F7B7AED501C1988"/>
 5. Q. On what Day did he ariſe?</p>
                      <p>
                         <hi>A.</hi> On the third Day after his Death.</p>
@@ -1820,7 +1820,7 @@
                      <p n="4">4. Q. Was that alſo foretold?</p>
                      <p>
                         <hi>A.</hi> Yes; Pſ. 68.18. <hi>Thou haſt aſcended on high thou haſt
-<pb n="66" facs="tcp:010001_0066_0F7B7AEDF4E21218"/>led Captive Captivity: Thou haſt received Gifts for Men: Yea, for the Rebellious, alſo; that the Lord God might dwell among them.</hi>
+<pb n="66" facs="unknown:010001_0066_0F7B7AEDF4E21218"/>led Captive Captivity: Thou haſt received Gifts for Men: Yea, for the Rebellious, alſo; that the Lord God might dwell among them.</hi>
                      </p>
                      <p n="5">5. Q. Are there Witneſſes for his Acenſion?</p>
                      <p>
@@ -1849,7 +1849,7 @@
                      </p>
                   </div>
                   <div n="c" type="section">
-                     <pb n="67" facs="tcp:010001_0067_0F7B7AEE9769E198"/>
+                     <pb n="67" facs="unknown:010001_0067_0F7B7AEE9769E198"/>
                      <head>C. His ſitting at the Right-Hand of God.</head>
                      <p n="1">1. Queſt. Was it alſo foretold that Chriſt ſhould ſit at the Right-Hand of God?</p>
                      <p>
@@ -1879,7 +1879,7 @@
                   <hi>A.</hi> To apply his Benefits to us.</p>
                <p n="2">2. Q. How may Chriſt's Benefits be diſtinctly conſidered?</p>
                <p>
-                  <pb n="68" facs="tcp:010001_0068_0F7B7AF29D6200D0"/>
+                  <pb n="68" facs="unknown:010001_0068_0F7B7AF29D6200D0"/>
                   <hi>A.</hi> Chriſt's Benefits may be conſidered as of two Kinds, 1ſt. Such as are beſtowed in this Life; 2dly. Such as ſhall be conferred in the Life to come.</p>
                <p n="3">3. Q. Which are the Benefits beſtowed in this Life?</p>
                <p>
@@ -1910,7 +1910,7 @@
                   <hi>A.</hi> Yes; For then it was confined to the Jews, but now extends alſo to the Gentile Nations.</p>
                <p n="11">11. Q. Is there no ſaving Call in Nature?</p>
                <p>
-                  <pb n="69" facs="tcp:010001_0069_0F7B7AF39DC6C998"/>
+                  <pb n="69" facs="unknown:010001_0069_0F7B7AF39DC6C998"/>
                   <hi>A.</hi> No: For Nature is ignorant of Chriſt, and without him there is no Salvation.</p>
                <p n="12">12. Q. Is not external calling ſufficient to Converſion?</p>
                <p>
@@ -1934,7 +1934,7 @@
                   <hi>A.</hi> The Underſtanding is darkened, the Will is perverſe, the Affections irregular, and the Converſation ſinful. Eph. 4.18. <hi>Having the Underſtanding darkened being alienated from the Life of God, through Ignorance that is in them, becauſe of the Blindneſs of their Hearts.</hi> Rom. 8.7. <hi>Becauſe the carnal Mind is Enmity againſt God, for it is not ſubject to the Law of God, neither indeed can be.</hi> Jude ver. 12.13. <hi>Theſe are Spots in your Feaſts of Charity, when they feaſt with you, feeding themſelves without Fear: Clouds they are without Wa<g ref="char:EOLhyphen"/>ter, carried about of Winds; Trees whoſe Fruit withereth, without Fruit, twice dead plucked up by the Roots, raging Waves of the Sea, foaming out their own Shame; Wandring Stars, to whom is reſerved the Blackneſs of Darkneſs forever.</hi> Titus 3.3. <hi>For we ourſelves alſo were ſometimes fooliſh, dif<g ref="char:EOLhyphen"/>obedient, deceived, ſerving divers Luſts, and Pleaſures, living in Malice and Envy, hateful and hating one another.</hi>
                </p>
                <p n="18">
-                  <pb n="70" facs="tcp:010001_0070_0F7B7AF3DBACEA48"/>
+                  <pb n="70" facs="unknown:010001_0070_0F7B7AF3DBACEA48"/>
 18. Q. What is then the Effect of this internal calling?</p>
                <p>
                   <hi>A.</hi> The Underſtanding is enlightened to know God in his Work of Salvation, Jeſus in his precious Excellencies, and themſelves in their Depravity; being juſtly expoſed to the Curſe. 1 Cor. 2, 12, 13. <hi>Now we have received, not the Spirit of the World, but the Spirit which is of God, that we might know the Things which are freely given us of God. Which Things alſo we ſpeak, not in Words, which Man's Wiſ<g ref="char:EOLhyphen"/>dom teacheth, but which the Holy Ghoſt teacheth, comparing ſpiritual Things with ſpiritual.</hi> The Will is inclined to ſerve and glorify God. Rom. 7.15. <hi>For that which I do I allow not: For what I would that do I not, but what I hate that do I.</hi>
@@ -1953,7 +1953,7 @@
                   <hi>A.</hi> No; But he makes them willing. Cant. 1.4, <hi>Draw me, we will run after thee: The King hath brought me into his Chambers: We will be glad and rejoice in thee, we will remem<g ref="char:EOLhyphen"/>ber thy Love more than Wine: the upright love thee,</hi>
                </p>
                <p n="22">
-                  <pb n="71" facs="tcp:010001_0071_0F7B7AF49E2E8060"/>
+                  <pb n="71" facs="unknown:010001_0071_0F7B7AF49E2E8060"/>
 22. Q. How is this powerful Effect of the internal calling expreſſed in Scripture?</p>
                <p>
                   <hi>A.</hi> It is called a CREATION; <hi>We are his Workmanſhip</hi> CREATED <hi>in Chriſt Jeſus to good Works,</hi> Eph. 2.10. alſo a DRAWING, <hi>no Man can come to me except the Father who ſent me</hi> DRAW <hi>him.</hi> John 6.44.</p>
@@ -1983,7 +1983,7 @@
                <p n="7">7. Q. Is there more than one Church?</p>
                <p>
                   <hi>A.</hi> No; Cant. 6.9. <hi>My Dove, my undefiled is but</hi> ONE, <hi>ſhe is the only one of her Mother, ſhe is the choice one of her
-<pb n="72" facs="tcp:010001_0072_0F7B7AF566D7AE08"/>that bare her.</hi> The Church in all Ages and in all Places is one and the ſame Church.</p>
+<pb n="72" facs="unknown:010001_0072_0F7B7AF566D7AE08"/>that bare her.</hi> The Church in all Ages and in all Places is one and the ſame Church.</p>
                <p n="8">8. Q. Is there always a Church?</p>
                <p>
                   <hi>A.</hi> Yes; Matt. 16.18. <hi>And I ſay unto thee that thou art Peter, and upon this Rock I will build my Church: And the Gates of Hell ſhall not prevail againſt it.</hi>
@@ -2004,7 +2004,7 @@
                <p n="13">13. Q. How do you prove that?</p>
                <p>
                   <hi>A.</hi> Becauſe in him is fulfilled that which was foretold of Antichriſt. 2 Theſ. 2.1, to the 11 ver. <hi>Now we beſeech you, Brethren, by the coming of our Lord Jeſus Chriſt, and by our gathering together unto him, that ye be not ſoon ſhaken in Mind, or be troubled, neither by Spirit: nor by Word, nor by Letter, as from us, as that the Day of Chriſt is at Hand, let no Man deceive you by any Means: For that Day ſhall not come, except there come a falling away firſt, and that Man of Sin be revealed, the Son of Perdition: Who oppoſeth and ex<g ref="char:EOLhyphen"/>alteth himſelf above all that is called God, or that is worſhip<g ref="char:EOLhyphen"/>ed; ſo that he as God ſitteth in the Temple of God, ſhewing himſelf that he is God. Remember ye not, that when I was yet with you, I told you theſe Things? And now ye know what withholdeth, that he might be revealed in his Time. For the Myſtery of Iniquity doth already work; only he who now letteth
-<pb n="73" facs="tcp:010001_0073_0F7B7AF6201EA418"/>will let, until he be taken out of the Way. And then ſhall that wicked be revealed, whom the Lord ſhall conſume with the Spirit of his Mouth, and ſhall deſtroy with the Brightneſs of his coming: Even him whoſe coming is after the working of Satan, with all Power and Signs, and lying Wonders, and with all Deceiveableneſs of Unrighteouſneſs, in them that pe<g ref="char:EOLhyphen"/>riſh, becauſe they received not the Love of the Truth, that they might be ſaved. And for this Cauſe God ſhall ſend them ſtrong Deluſions that they ſhould believe a Lie.</hi>
+<pb n="73" facs="unknown:010001_0073_0F7B7AF6201EA418"/>will let, until he be taken out of the Way. And then ſhall that wicked be revealed, whom the Lord ſhall conſume with the Spirit of his Mouth, and ſhall deſtroy with the Brightneſs of his coming: Even him whoſe coming is after the working of Satan, with all Power and Signs, and lying Wonders, and with all Deceiveableneſs of Unrighteouſneſs, in them that pe<g ref="char:EOLhyphen"/>riſh, becauſe they received not the Love of the Truth, that they might be ſaved. And for this Cauſe God ſhall ſend them ſtrong Deluſions that they ſhould believe a Lie.</hi>
                </p>
                <p n="14">14. Q. What are the Marks of the True Church?</p>
                <p>
@@ -2028,7 +2028,7 @@
                   <hi>A.</hi> Two: The preaching of the Goſpel, and Chriſtian Diſcipline, Matt. 28.19, 20. <hi>Go ye therefore and teach all Nations, baptizing them in the Name of the Father, and of the Son, and of the Holy Ghoſt: Teaching them to obſerve all Things whatſoever I have commanded you.</hi> Chap. 18.18. <hi>Verily I ſay unto you, whatſoever ye ſhall bind on Earth, ſhall be bound in Heaven: And whatſoever ye ſhall looſe on Earth, ſhall be looſed in Heaven.</hi>
                </p>
                <p n="20">
-                  <pb n="74" facs="tcp:010001_0074_0F7B7AF6EC016568"/>
+                  <pb n="74" facs="unknown:010001_0074_0F7B7AF6EC016568"/>
 20. Q. Is it ſufficient to be a viſible Member of the Church?</p>
                <p>
                   <hi>A.</hi> No; We muſt examine ourſelves whether we be living Members thereof.</p>
@@ -2051,7 +2051,7 @@
                   <hi>A.</hi> No; That is effected in Sanctification.</p>
                <p n="5">5. Q. Is not Juſtification the Infuſion of Righteouſneſs?</p>
                <p>
-                  <pb n="75" facs="tcp:010001_0075_0F7B7AF79AD73740"/>
+                  <pb n="75" facs="unknown:010001_0075_0F7B7AF79AD73740"/>
                   <hi>A,</hi> No; It is only a Sentence or Abſolution in Behalf of, or concerning a Perſon, as is done by Judges in Courts of Juſtice among Men.</p>
                <p n="6">6. Q. Is it taken in this Senſe in Scripture?</p>
                <p>
@@ -2083,7 +2083,7 @@
                   <hi>A.</hi> Only for the Sake of Chriſt, Rom. 3.24. <hi>Being juſtified freely by his Grace, through the Redemption that is in Jeſus Chriſt.</hi>
                </p>
                <p n="14">
-                  <pb n="76" facs="tcp:010001_0076_0F7B7AF8D8FAE5C0"/>
+                  <pb n="76" facs="unknown:010001_0076_0F7B7AF8D8FAE5C0"/>
 14. Q. Are we not juſtified on Account of our own Works?</p>
                <p>
                   <hi>A.</hi> No; Rom. 3.28. <hi>Therefore we conclude that a Man is juſtified by Faith, without the Deeds of the Law.</hi>
@@ -2113,7 +2113,7 @@
                <p n="21">21. Q. In what Light is Faith here to be conſidered?</p>
                <p>
                   <hi>A.</hi> As a Hand or Inſtrument whereby we receive the Me<g ref="char:EOLhyphen"/>rits of Chriſt. John 1.12. <hi>But as many as received him, to
-<pb n="77" facs="tcp:010001_0077_0F7B7AF981673CD8"/>them gave he Power to become the Sons of God, even to them that believe on his Name.</hi>
+<pb n="77" facs="unknown:010001_0077_0F7B7AF981673CD8"/>them gave he Power to become the Sons of God, even to them that believe on his Name.</hi>
                </p>
             </div>
             <div n="16" type="chapter">
@@ -2137,7 +2137,7 @@
                   <hi>A.</hi> It is a ſtrong Perſuaſion, that a Miracle ſhall be per<g ref="char:EOLhyphen"/>formed, either by us, or in us. 1 Cor. 13.2.—<hi>And though I have all Faith, ſo that I could remove Mountains, and have no Charity, I am nothing.</hi> Matt. 8.10. <hi>Jeſus ſaid verily I ſay unto you, I have not ſound ſo great a Faith, no not Iſrael.</hi>
                </p>
                <p n="6">
-                  <pb n="78" facs="tcp:010001_0078_0F7B7AFA1D6A5988"/>
+                  <pb n="78" facs="unknown:010001_0078_0F7B7AFA1D6A5988"/>
 6. Q. When did that Faith take Place?</p>
                <p>
                   <hi>A.</hi> In that Age of the Church, when the working of Mi<g ref="char:EOLhyphen"/>racles were common.</p>
@@ -2160,7 +2160,7 @@
                <p n="11">11. Q. What are the Effects of the juſtifying Act of Faith?</p>
                <p>
                   <hi>A.</hi> The particular and certain Application of the Promiſes of the Goſpel, and the Lord Jeſus, to the very Perſon of every Believer. Gal. 2.20. <hi>I am crucified with Chriſt and I live; Yet not I but Chriſt liveth in me: And the Life
-<pb n="79" facs="tcp:010001_0079_0F7B7AFACAF57350"/>which I now live in the Fleſh, I live by the Faith of the Son of God, who loved me and gave himſelf for me.</hi> A comfort<g ref="char:EOLhyphen"/>able Senſe of this, every Believer doth not enjoy at all Times, by Reaſon of the Temptations of Satan, the Accuſations of the Law, and Deluſions of the Fleſh, But to attain this, every one ought to endeavour, who truly receive Jeſus Chriſt.</p>
+<pb n="79" facs="unknown:010001_0079_0F7B7AFACAF57350"/>which I now live in the Fleſh, I live by the Faith of the Son of God, who loved me and gave himſelf for me.</hi> A comfort<g ref="char:EOLhyphen"/>able Senſe of this, every Believer doth not enjoy at all Times, by Reaſon of the Temptations of Satan, the Accuſations of the Law, and Deluſions of the Fleſh, But to attain this, every one ought to endeavour, who truly receive Jeſus Chriſt.</p>
                <p n="12">12. Q. Can and muſt Believers be aſſured of the Reality of their Faith?</p>
                <p>
                   <hi>A.</hi> They can be aſſured. 2 Tim. 1.12. <hi>For I know whom I have believed, and am perſuaded that he is able to keep that which I have committed unto him againſt that Day.</hi> And they ought to endeavour after it. 2 Cor. 13 5. <hi>Examine yourſelves whether you be in the Faith, prove your ownſelves, know ye not your ownſelves, how that Chriſt Jeſus is in you, except ye be Reprobates.</hi>
@@ -2184,7 +2184,7 @@
                   <hi>A.</hi> Yes; For theſe are inſeparable, as 1 Cor. 1.30. <hi>But of him are ye in Chriſt Jeſus, who of God is made unto us Wiſdom, and Righteouſneſs, and Sanctification, and Redemption.</hi>
                </p>
                <p n="2">
-                  <pb n="80" facs="tcp:010001_0080_0F7B7AFB5817F030"/>
+                  <pb n="80" facs="unknown:010001_0080_0F7B7AFB5817F030"/>
 2. Q. What is Sanctification?</p>
                <p>
                   <hi>A.</hi> A Renovation of the whole Man.</p>
@@ -2219,7 +2219,7 @@
                   <hi>A.</hi> Yes; Sanctification is ſubject to Increaſe and Decreaſe in one and the ſame Perſon.</p>
                <p n="10">10. Q. Can we totally looſe it?</p>
                <p>
-                  <pb n="81" facs="tcp:010001_0081_0F7B7AFF0C885FC0"/>
+                  <pb n="81" facs="unknown:010001_0081_0F7B7AFF0C885FC0"/>
                   <hi>A.</hi> No; Where the Grace of God is once begun, there it doth continue.</p>
                <p n="11">11. Q. Is there then no Apoſtacy of Saints?</p>
                <p>
@@ -2246,7 +2246,7 @@
                   </p>
                   <p n="5">5. Q. Prove that they muſt be done to the Honour and Glory of God?</p>
                   <p>
-                     <pb n="82" facs="tcp:010001_0082_0F7B7B0004F1C710"/>
+                     <pb n="82" facs="unknown:010001_0082_0F7B7B0004F1C710"/>
                      <hi>A.</hi> 1 Cor. 10.31. <hi>Therefore whether ye eat or drink, or whatſoever ye do, do all to the Glory of God.</hi>
                   </p>
                   <p n="6">6. Q. Muſt we do good Works?</p>
@@ -2273,7 +2273,7 @@
                <p n="2">2. Q. Which of theſe three are ſtill in force?</p>
                <p>
                   <hi>A.</hi> The moral Law which is eternal. Matt. 5. 17—19:
-<pb n="83" facs="tcp:010001_0083_0F7B7B00996C50E8"/>
+<pb n="83" facs="unknown:010001_0083_0F7B7B00996C50E8"/>
                   <hi>Think not that I am come to deſtroy the Law or the Prophets; I am not come to deſtroy, but to fulfil, for verily I ſay unto you till Heaven and Earth ſhall paſs, one Jot or one Tittle ſhall in no wiſe paſs from the Law till all be fulfilled. Whoſoever therefore ſhall break one of the leaſt of theſe Commandments and ſhall teach Men ſo, ſhall be called the leaſt in the Kingdom of Heaven: But whoſoever ſhall do and teach them, the ſame ſhall be called great in the Kingdom of Heaven.</hi>
                </p>
                <p n="3">3. Q. When were the others abrogated?</p>
@@ -2302,7 +2302,7 @@
                </p>
                <p n="10">10. Q. When was it given?</p>
                <p>
-                  <pb n="84" facs="tcp:010001_0084_0F7B7B015A4288C0"/>
+                  <pb n="84" facs="unknown:010001_0084_0F7B7B015A4288C0"/>
                   <hi>A.</hi> Soon after the Departure of the Children of Iſrael out of Egypt.</p>
                <p n="11">11. Q. Is not this Law enlarged by Chriſt under the New Teſtament?</p>
                <p>
@@ -2331,7 +2331,7 @@
                <p n="3">3. Q. May we not worſhip Saints or Angels?</p>
                <p>
                   <hi>A.</hi> No; That Honour belongs not unto them, neither do
-<pb n="85" facs="tcp:010001_0085_0F7B7B021981B578"/>they know us. Iſaiah 42.8. <hi>I am the Lord, that is my Name, and my Glory will I not give to another, neither my Praiſe to graven Images.</hi> Col. 2.18. <hi>Let no Man beguile you of your Reward, in a voluntary Humility, and worſhip<g ref="char:EOLhyphen"/>ing of Angels, intruding into thoſe Things which he hath not ſeen, vainly puft up by his fleſhly Mind.</hi>
+<pb n="85" facs="unknown:010001_0085_0F7B7B021981B578"/>they know us. Iſaiah 42.8. <hi>I am the Lord, that is my Name, and my Glory will I not give to another, neither my Praiſe to graven Images.</hi> Col. 2.18. <hi>Let no Man beguile you of your Reward, in a voluntary Humility, and worſhip<g ref="char:EOLhyphen"/>ing of Angels, intruding into thoſe Things which he hath not ſeen, vainly puft up by his fleſhly Mind.</hi>
                </p>
                <p n="4">4. Q. How muſt we pray?</p>
                <p>
@@ -2356,7 +2356,7 @@
                   <hi>A.</hi> They are Signs and Seals of God's Grace, Rom. 4.11. <hi>And he received the Sign of Circumciſion, a Seal of the Righ<g ref="char:EOLhyphen"/>teouſneſs of the Faith, which he had yet being uncircumciſed; that he might be the Father of all them that believe, though they be not circumciſed; that Righteouſneſs might be imputed unto them alſo.</hi>
                </p>
                <p n="3">
-                  <pb n="86" facs="tcp:010001_0086_0F7B7B02D8491250"/>
+                  <pb n="86" facs="unknown:010001_0086_0F7B7B02D8491250"/>
 3. Q. Which were the principal Sacraments of the Old Teſtament?</p>
                <p>
                   <hi>A.</hi> Circumciſion and the Paſſover.</p>
@@ -2398,7 +2398,7 @@
                      <hi>A.</hi> The Blood and Spirit of Chriſt. Heb. 12.24. <hi>To Jeſus the Mediator of the New Covenant, and to the Blood of Sprinkling that ſpeaketh better Things than that of Abel.</hi> 1 Pet. 1.2. <hi>Elect according to the Fore-Knowledge of God the Father, through the Sanctification of the Spirit unto Obe<g ref="char:EOLhyphen"/>dience, and Sprinkling of the Blood of Jeſus Chriſt.</hi>
                   </p>
                   <p n="4">
-                     <pb n="87" facs="tcp:010001_0087_0F7B7B045DB1E208"/>
+                     <pb n="87" facs="unknown:010001_0087_0F7B7B045DB1E208"/>
 4. Q. What Uſe is made of the Water?</p>
                   <p>
                      <hi>A.</hi> The Perſon to be baptized is immerſed therein, or ſprinkled therewith.</p>
@@ -2435,7 +2435,7 @@
                   <p n="14">14. Q. What is the Duty of baptized Perſons?</p>
                   <p>
                      <hi>A.</hi> They muſt examine themſelves whether they have
-<pb n="88" facs="tcp:010001_0088_0F7B7B059AC74920"/>wholly dedicated themſelves (agreeable to their baptiſmal Vows) to God the Father Son and Holy Ghoſt.</p>
+<pb n="88" facs="unknown:010001_0088_0F7B7B059AC74920"/>wholly dedicated themſelves (agreeable to their baptiſmal Vows) to God the Father Son and Holy Ghoſt.</p>
                </div>
                <div n="2" type="part">
                   <head>ii. Of the Holy Supper.</head>
@@ -2475,7 +2475,7 @@
                      <hi>A.</hi> The Blood of Chriſt. 1 Cor, 11.25. <hi>After the ſame Manner alſo he took the Cup, when he had ſupped, ſaying; This Cup is the New Teſtament in my Blood; This do ye as oft as ye drink it, in remembrance of me.</hi>
                   </p>
                   <p n="12">
-                     <pb n="89" facs="tcp:010001_0089_0F7B7B0644ECE510"/>
+                     <pb n="89" facs="unknown:010001_0089_0F7B7B0644ECE510"/>
 12. Q. What doth the pouring forth of the Wine ſignify?</p>
                   <p>
                      <hi>A.</hi> That the Blood of Chriſt is ſhed for us.</p>
@@ -2517,7 +2517,7 @@
                </div>
             </div>
             <div n="21" type="chapter">
-               <pb n="90" facs="tcp:010001_0090_0F7B7B06D58DAF58"/>
+               <pb n="90" facs="unknown:010001_0090_0F7B7B06D58DAF58"/>
                <head>CHAP. XXI. Of Man's latter End.</head>
                <p n="1">1. Queſt. SHALL Man always live?</p>
                <p>
@@ -2538,7 +2538,7 @@
                   <hi>A.</hi> No; Rev. 14.13. <hi>And I heard a Voice from Hea<g ref="char:EOLhyphen"/>ven, ſaying unto me, write, bleſſed are the dead that die in the Lord, from henceforth: Yea, ſaith the Spirit, that they may reſt from their Labours, and their Works do follow them,</hi> The penitent Thief went immediately to Heaven without Purgatory. Luke 23.43 <hi>And Jeſus ſaid unto him, verily I ſay unto thee, this Day ſhalt thou be with me in Paradiſe.</hi>
                </p>
                <div n="1" type="part">
-                  <pb n="91" facs="tcp:010001_0091_0F7B7B0A5729BBB8"/>
+                  <pb n="91" facs="unknown:010001_0091_0F7B7B0A5729BBB8"/>
                   <head>i. Of the Reſurrection.</head>
                   <p n="1">1. Queſt. Shall there be a Reſurrection?</p>
                   <p>
@@ -2572,7 +2572,7 @@
                   <p>
                      <hi>A.</hi> The final Judgment.</p>
                   <p n="2">
-                     <pb n="92" facs="tcp:010001_0092_0F7B7B0A625F4D18"/>
+                     <pb n="92" facs="unknown:010001_0092_0F7B7B0A625F4D18"/>
 2. Q. Shall there be a final Judgment?</p>
                   <p>
                      <hi>A.</hi> Yes; Acts 17.31. <hi>He hath appointed a Day, in the which he will judge the World in Righteouſneſs by that Man whom he hath ordained: Whereof he hath given aſſurance unto all Men, in that he hath raiſed him from the dead.</hi>
@@ -2612,7 +2612,7 @@
                   <head>iii. Of eternal Life.</head>
                   <p n="1">1. Queſt. What ſhall follow this Judgment?</p>
                   <p>
-                     <pb n="93" facs="tcp:010001_0093_0F7B7B0B4381C808"/>
+                     <pb n="93" facs="unknown:010001_0093_0F7B7B0B4381C808"/>
                      <hi>A.</hi> Eternal Life or eternal Damnation.</p>
                   <p n="2">2. Q. Where ſhall the wicked ſuffer this Damnation?</p>
                   <p>
@@ -2653,7 +2653,7 @@
             </list>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:010001_0094_0F7B7B0BDE9FE7A0"/>
+            <pb facs="unknown:010001_0094_0F7B7B0BDE9FE7A0"/>
             <head>THE CONTENTS.</head>
             <list>
                <item>Chap. I. OF the Knowledge of God Page 9</item>
@@ -2690,7 +2690,7 @@
                      <item>ii. Of the Name <hi>Chriſt</hi> Page 49</item>
                      <item>iii. Of his Offices Page 51</item>
                      <item>
-                        <pb facs="tcp:010001_0095_0F7B7B0C99F95A60"/>
+                        <pb facs="unknown:010001_0095_0F7B7B0C99F95A60"/>
 A Of his prophetical Office Page —</item>
                      <item>B His Prieſtly Office Page 53</item>
                      <item>C His Kingly Office Page 54</item>
